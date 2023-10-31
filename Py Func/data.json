@@ -1,0 +1,11 @@
+{
+  "name": "Krishnakumar",
+  "age": 22,
+  "city": "Kariapatti",
+  "email": "krishnakumar@gmail.com",
+  "interests": ["Web Series", "Games", "Programming"],
+  "address": {
+    "street": "Pallivasal Middle Street",
+    "zip": "626106"
+  }
+}
